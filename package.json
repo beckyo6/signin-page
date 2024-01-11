@@ -1,0 +1,23 @@
+{
+  "name": "exercices-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckyo6/signin-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beckyo6/signin-page/issues"
+  },
+  "homepage": "https://github.com/beckyo6/signin-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
