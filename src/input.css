@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.login-card{
+    @apply bg-white shadow-lg max-w-lg;
+}
+
+@screen md{
+    .login-card{
+        @apply flex;
+    }
+}
