@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/beckyo6/signin-page#readme",
   "name": "exercices-tailwind",
   "version": "1.0.0",
   "description": "",
@@ -16,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/beckyo6/signin-page/issues"
   },
-  "homepage": "https://github.com/beckyo6/signin-page#readme",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
